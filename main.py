@@ -18,7 +18,7 @@ RIKTLINJER:
 
 INSTRUCTIONS = """
 
-# Dizparc Secured hotspot utmaning
+# Prompt injection utmaning
 
 ## Beskrivning av uppgiften
                     
