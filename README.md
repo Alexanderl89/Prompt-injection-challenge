@@ -1,16 +1,16 @@
-# Dizparc Secured Hotspot - Jailbreaking Challenge
+# Prompt injection Challenge
 
 A Gradio-based AI security challenge where users attempt to extract a hidden flag from a chatbot using prompt injection and social engineering techniques.
 
 ## Overview
 
-This project demonstrates AI security concepts by creating a chatbot that guards a secret. Users must craft clever prompts to bypass the bot's restrictions and reveal the hidden flag. The challenge simulates real-world scenarios where AI systems need to resist manipulation attempts.
+This project demonstrates AI security concepts by creating a chatbot that guards a secret. Users must craft clever prompts to bypass the bot's restrictions and reveal the hidden flag. The challenge simulates real-world scenarios in which AI systems must resist manipulation attempts.
 
 ## Features
 
 - **Interactive Chatbot Interface**: Built with Gradio for easy web-based interaction
 - **AI-Powered**: Uses OpenAI-compatible API
-- **Security Challenge**: Tests various jailbreaking techniques including:
+- **Security Challenge**: Tests various jailbreaking techniques, including:
   - Prompt injection
   - Social engineering
   - Instruction conflicts
